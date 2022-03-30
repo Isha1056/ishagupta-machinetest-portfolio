@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ishagupta-machinetest-portfolio/static/css/main.0b9bf03c.css",
+    "main.js": "/ishagupta-machinetest-portfolio/static/js/main.0bf41a34.js",
+    "static/js/787.bd6d3b2f.chunk.js": "/ishagupta-machinetest-portfolio/static/js/787.bd6d3b2f.chunk.js",
+    "index.html": "/ishagupta-machinetest-portfolio/index.html",
+    "main.0b9bf03c.css.map": "/ishagupta-machinetest-portfolio/static/css/main.0b9bf03c.css.map",
+    "main.0bf41a34.js.map": "/ishagupta-machinetest-portfolio/static/js/main.0bf41a34.js.map",
+    "787.bd6d3b2f.chunk.js.map": "/ishagupta-machinetest-portfolio/static/js/787.bd6d3b2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b9bf03c.css",
+    "static/js/main.0bf41a34.js"
+  ]
+}
