@@ -1,0 +1,14 @@
+.navbar {
+    background:linear-gradient(135deg, #0f1218 0%,#0f1218 100%);
+    border: none;
+    color: white;
+    z-index: 5;
+    border-bottom: 4px solid #5ccbff;;
+}
+.nav-options {
+    right: 1vw;
+}
+
+.navbar-toggler{
+    background: #83b3ca;
+}

@@ -1,0 +1,35 @@
+.BookCover1 {
+  background-image: url(https://picsum.photos/1920/1080);
+  background-size: cover;
+}
+
+.BookPage {
+  background-image: radial-gradient(rgb(238, 237, 225), rgb(221, 218, 194), rgb(182, 168, 139));
+  border: brown;
+  border-width:5vw;
+}
+
+.BookCover2 {
+  background-color: #5e956b;
+  background-size: cover;
+}
+
+.page-header {
+  text-align: center;
+  font-size: 3rem !important;
+  font-weight: 700;
+}
+
+.page-content {
+  text-align: center;
+  font-size: 2rem !important;
+  margin-left: 2vw;
+  margin-right: 2vw;
+}
+
+.page-image-img {
+  height: 30%;
+  width: 90%;
+}
+
+
